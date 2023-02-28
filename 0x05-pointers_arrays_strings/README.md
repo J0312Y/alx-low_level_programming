@@ -1,1 +1,1 @@
-Prototype: void reset_to_98(int *n)
+0x05. C - Pointers, arrays and strings
